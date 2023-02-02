@@ -2,7 +2,7 @@
 title:              "The Sleepy Academic"
 description:        "My academic site"
 author_name:        "Priyanka" # change this to your name
-logo_url:           https://avatars3.githubusercontent.com/u/17532418?s=460&v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+logo_url:           assets/images/PriChomsky.png # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
 url:                https://priyankaborpujari.github.io # main url
