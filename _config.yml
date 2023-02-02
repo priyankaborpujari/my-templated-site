@@ -1,15 +1,15 @@
 # Site Info
-title:              "The Plain Academic"
+title:              "The Sleepy Academic"
 description:        "My academic site"
-author_name:        "Breno Viana" # change this to your name
+author_name:        "Priyanka" # change this to your name
 logo_url:           https://avatars3.githubusercontent.com/u/17532418?s=460&v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
-url:                https://brenov.github.io # main url
-baseurl:            /the-plain-academic
+url:                https://priyankaborpujari.github.io # main url
+baseurl:            /my-templated-site
 permalink:          /:title # Post permalink
-timezone:           America/Recife # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-mathjax:            true  # enables support for mathjax - set to 'false' to disable
+# timezone:           America/Recife # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# mathjax:            true  # enables support for mathjax - set to 'false' to disable
 
 # Site Build
 highlighter:        rouge
